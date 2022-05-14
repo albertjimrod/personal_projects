@@ -50,9 +50,6 @@ By taking advantage of [Google’s Speech API](https://cloud.google.com/speech-t
 Once the software pavucontrol is running (Linux Mint images) so signal is moving:
 
 
-![pavucontrol.png](../Sonus_transcribere/b4304d76235745ad97337aaa19b56705.png)
-
-
 **Audacity**
 Start up audacity and press record.
 
