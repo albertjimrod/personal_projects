@@ -4,6 +4,8 @@ sonus transcriber
 
 ### October 17, 2021
 
+![classical_student.png](../classical_student.png)
+
 
 ### Preamble:
 
