@@ -101,7 +101,7 @@ Once jupyter is running with **Sonus transcriber**, it will asks us a series of 
 
 
 
-![jupyter_questions.png](../_resources/1db277f0cd8c48e4903be7a3bcf95ff5.png)
+![jupyter_questions.png](Sonus_transcribere/_resources/1db277f0cd8c48e4903be7a3bcf95ff5.png)
 
 
 
