@@ -50,7 +50,7 @@ By taking advantage of [Google’s Speech API](https://cloud.google.com/speech-t
 Once the software pavucontrol is running (Linux Mint images) so signal is moving:
 
 
-![pavucontrol.png](../_resources/b4304d76235745ad97337aaa19b56705.png)
+![pavucontrol.png](../b4304d76235745ad97337aaa19b56705.png)
 
 
 <img title="audacity.png" alt="audacity.png" src="/home/ion/Formacion/git_repo_klone/albertjimrod/audacity.png">
