@@ -4,7 +4,7 @@ sonus transcriber
 
 ### October 17, 2021
 
-![classical_student.png](../classical_student.png)
+![classical_student.png](../Sonus_transcribere/classical_student.png)
 
 
 ### Preamble:
