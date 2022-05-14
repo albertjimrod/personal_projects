@@ -4,7 +4,12 @@ sonus transcriber
 
 ### October 17, 2021
 
+
+<div style="text-align: center;">
+
 ![classical_student.png](../Sonus_transcribere/classical_student.png)
+
+</div>
 
 
 ### Preamble:
