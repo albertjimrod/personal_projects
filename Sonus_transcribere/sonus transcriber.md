@@ -3,11 +3,7 @@
 ### October 17, 2021
 
 
-<div style="text-align: center;">
-  
-  ![classical_student.png](../Sonus_transcribere/classical_student.png)
-
-</div>
+![classical_student.png](../Sonus_transcribere/classical_student.png)
 
 
 ### Preamble:
@@ -115,6 +111,6 @@ and knowing where the part that does not understand or does not transcribe is ve
 
 sometimes google also fails… sometimes, but mainly **you might have a corrects audio levels** that means you must normalize the audio.
 
-Finally I hope you enjoy it as I have done all this and excuse for the programming mess, as you can see is just a sketch there are a lot to improve.
+Finally I hope you enjoy it as I have done all this, and excuse for the programming mess, as you can see is just a sketch there are a lot to improve.
 
 Thanks.
