@@ -58,6 +58,7 @@ Once the software pavucontrol is running (Linux Mint images) so signal is moving
 **Audacity**
 Start up audacity and press record.
 
+
 ![audacity.png](../Sonus_transcribere/_resources/938845e31acf48f88898ef4ea994e91c.png)
 
 
