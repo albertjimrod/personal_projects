@@ -50,7 +50,7 @@ By taking advantage of [Google’s Speech API](https://cloud.google.com/speech-t
 Once the software pavucontrol is running (Linux Mint images) so signal is moving:
 
 
-![pavucontrol.png](../b4304d76235745ad97337aaa19b56705.png)
+![pavucontrol.png](../Sonus_transcribere/b4304d76235745ad97337aaa19b56705.png)
 
 
 <img title="audacity.png" alt="audacity.png" src="/home/ion/Formacion/git_repo_klone/albertjimrod/audacity.png">
@@ -70,20 +70,20 @@ I marked those parts that I found interesting.
 In case you want to know more about Audacity, you can find all the information on their web site.
 
 
-![audacity_1.png](../_resources/4c285ae9ffbc4d56801a824c518b4f93.png)
+![audacity_1.png](../Sonus_transcribere/_resources/4c285ae9ffbc4d56801a824c518b4f93.png)
 
 
 If you have clear your material what you must do now is to export the audio, exporting those
 bits of audio in such a way that Sonus transcriber is able to understand the format.
 
 
-![audacity_2.png](../_resources/6b5bf93155b742a9bbe8b0816506edc5.png)
+![audacity_2.png](../Sonus_transcribere/_resources/6b5bf93155b742a9bbe8b0816506edc5.png)
 
 
 Once we have reached this point we must configure how we are going to export the audio.
 
 
-![audacity_3.png](../_resources/3f8f04acd8994c7ea943cfe8beaaae97.png)
+![audacity_3.png](../Sonus_transcribere/_resources/3f8f04acd8994c7ea943cfe8beaaae97.png)
 
 
 For work properlly we must select:
