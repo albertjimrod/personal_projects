@@ -1,6 +1,3 @@
-texto clasificacion frecuencial
-
-
 
 # Introduction
 
@@ -25,6 +22,10 @@ Multidimensional Scaling (MDS) allows you to visualize the level of similarity o
 ![freq_clas.png](../Master_thesis/_resources/23821a484c2843a78a8da19aa5ed6be8.png)
 
 The MDS algorithm aims to place each object in an N-dimensional space so that the Tantias between objects are maintained in the best possible way, later, each object is assigned coordinates in each of the N dimensions allowing to visualize the result.
+
+
+### [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects)
+
 
 
 
