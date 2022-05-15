@@ -1,5 +1,7 @@
 
-# Introduction
+# [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects)
+
+### Introduction
 
 In the audiovisual field there is a professional profile that is the [sound designer](https://www.studiobinder.com/blog/what-does-a-sound-designer-do/). This is a professional for the general independent that is dedicated to the creation of sound effects with the aim of narrating, personifying, generate emotions, portray sound spaces, eras, and ultimately create a sound universe with a particular identity within the audiovisual context in which you are working.
 
@@ -13,7 +15,7 @@ A tool that analyzes the samples (only from the frequency perspective) in which 
 The solution proposed to achieve this end is the application of one of the techniques seen in the predictive analysis with Machine Learning (Diego Calvo), referring to multidimensional scaling. While it is true that the solution is not innovative, it does not claim to be either. Only the imple- mentation of the knowledge acquired in ML in the most original way possible avoiding the dependence of external datasets through a field such as audio in which I feel comfortable and being the most honest with what was learned in the course.
 
 
-# Abstract
+### Abstract
 
 Exercise of approximation to one of the techniques of Machine Learning, through a set of samples audio. The objective is to apply a method of organization widely used in the field of learning supervised and related to the reduction of dimensionality, this method of classification is carried out to through multidimensional scaling.
 
@@ -22,12 +24,3 @@ Multidimensional Scaling (MDS) allows you to visualize the level of similarity o
 ![freq_clas.png](../Master_thesis/_resources/23821a484c2843a78a8da19aa5ed6be8.png)
 
 The MDS algorithm aims to place each object in an N-dimensional space so that the Tantias between objects are maintained in the best possible way, later, each object is assigned coordinates in each of the N dimensions allowing to visualize the result.
-
-
-### [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects)
-
-
-
-
-
-
