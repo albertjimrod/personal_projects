@@ -22,7 +22,7 @@ Exercise of approximation to one of the techniques of Machine Learning, through 
 
 Multidimensional Scaling (MDS) allows you to visualize the level of similarity of individual elements of a set, is one of the forms of nonlinear dimension reduction. This scaling technique multidimensional will be carried out through the previous frequency analysis of each of the elements of the set obtaining the difference or similarity between the samples of our set at the frequency level. 
 
-![freq_clas.png](../_resources/23821a484c2843a78a8da19aa5ed6be8.png)
+![freq_clas.png](../Master_thesis/_resources/23821a484c2843a78a8da19aa5ed6be8.png)
 
 The MDS algorithm aims to place each object in an N-dimensional space so that the Tantias between objects are maintained in the best possible way, later, each object is assigned coordinates in each of the N dimensions allowing to visualize the result.
 
