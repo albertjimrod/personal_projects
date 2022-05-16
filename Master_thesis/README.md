@@ -19,8 +19,14 @@ The solution proposed to achieve this end is the application of one of the techn
 
 Exercise of approximation to one of the techniques of Machine Learning, through a set of samples audio. The objective is to apply a method of organization widely used in the field of learning supervised and related to the reduction of dimensionality, this method of classification is carried out to through multidimensional scaling.
 
-Multidimensional Scaling (MDS) allows you to visualize the level of similarity of individual elements of a set, is one of the forms of nonlinear dimension reduction. This scaling technique multidimensional will be carried out through the previous frequency analysis of each of the elements of the set obtaining the difference or similarity between the samples of our set at the frequency level. 
+
+[Multidimensional Scaling](https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Multidimensional_Scaling.pdf) (MDS) is a technique that creates a map displaying the relative positions of a number of
+objects, given only a table of the distances between them. The map may consist of one, two, three, or even more
+dimensions. The program calculates either the metric or the non-metric solution. The table of distances is known as
+the proximity matrix. It arises either directly from experiments or indirectly as a correlation matrix.
 
 ![freq_clas.png](../Master_thesis/_resources/23821a484c2843a78a8da19aa5ed6be8.png)
 
-The MDS algorithm aims to place each object in an N-dimensional space so that the Tantias between objects are maintained in the best possible way, later, each object is assigned coordinates in each of the N dimensions allowing to visualize the result.
+MDS provides the marketing researcher with a map (scatter plot) of the six cars that
+summarizes the results visually. This map shows the perceived differences between the cars.
+
