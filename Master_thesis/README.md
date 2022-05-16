@@ -1,5 +1,5 @@
 
-# [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects)
+# [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects/tree/main/Master_thesis)
 
 ### Introduction
 
