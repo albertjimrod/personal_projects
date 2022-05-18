@@ -873,7 +873,7 @@ Araya-Salas, M. and Smith-Vidaurre, G. (2017), warbleR: an r package to streamli
 Maechler, M., Rousseeuw, P., Struyf, A., Hubert, M., Hornik, K.(2019).  cluster: Cluster Analysis Basics and Extensions. R package
   version 2.1.0
   
-NOTE: please also cite the 'tuneR' and 'seewave' packages if you use any spectrogram-creating or acoustic-measuring function
+NOTE: please also cite the 'tuneR' and 'seewave' packages if you use any spectrogram-creating  or acoustic-measuring function
   
 
 Uwe Ligges, Sebastian Krey, Olaf Mersmann, and Sarah Schnackenberg (2018). tuneR: Analysis of Music and Speech. URL: https://CRAN.R-project.org/package=tuneR
