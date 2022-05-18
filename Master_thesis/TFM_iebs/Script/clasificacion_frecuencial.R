@@ -1,0 +1,8 @@
+library(imager)
+library()
+library(tuneR)
+library(knitr)
+library(NatureSounds)
+library(seewave)
+library(warbleR)
+library(igraph)
