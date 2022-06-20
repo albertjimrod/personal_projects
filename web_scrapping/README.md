@@ -22,7 +22,7 @@ The issue I have experienced have been several:
  - This was the first project, and as such I only made use of the function libraries: requests and BeautifulSoup understanding that I had to continue took me many tests and time (a lot) but they were necessary to finish it,the most important challenge was to obtain the dates related to the day on which I did the scrapping.
 
 
-
+![sample_hispasonic_output.png](sample_hispasonic_output.png)
 
 
 #### Xuxes:
