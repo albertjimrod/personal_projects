@@ -1,11 +1,11 @@
 
 ![What_is_Web_Scraping](https://technofaq.org/wp-content/uploads/2019/06/What_is_Web_Scraping.png)
 
-## Motivation to carry out the projects:
+# Motivation to carry out the projects:
 
 Obtaining the necessary data automatically for later use and regardless of the datasets that circulate on the Internet, is one of the tools that a data analyst must be in the toolbox (or at least that's what I think).
 
-### Chronology: 
+## Chronology: 
 
 - [Hispasonic](https://www.hispasonic.com/anuncios/teclados-sintetizadores)
  
@@ -13,11 +13,11 @@ Obtaining the necessary data automatically for later use and regardless of the d
 
 - [Eurogrow](https://eurogrow.es/)
 
-### Things I've learned:
+## Things I've learned:
 
 The issue I have experienced have been several:
 
-#### Hispasonic:
+### Hispasonic:
 
  - This was the first project, and as such I only made use of the function libraries: requests and BeautifulSoup understanding that I had to continue took me many tests and time (a lot) but they were necessary to finish it,the most important challenge was to obtain the dates related to the day on which I did the scrapping.
 
@@ -25,7 +25,7 @@ The issue I have experienced have been several:
 ![sample_hispasonic_output.png](sample_hispasonic_output.png)
 
 
-#### Xuxes:
+### Xuxes:
 
 After having finished the previous project facing this one was not so difficult since it did not require dates however I began to realize that I needed another way to enter the code.
 
@@ -33,7 +33,7 @@ One of the things I had to fine-tune because I didn't know enough was to work wi
 
 ![xuxes_csv.png](xuxes_csv.png)
 
-#### Eurogrow:
+### Eurogrow:
 
 - The need to get out of the comfort of using Jupyter notebook and learn how to use a new IDE. In this case Visual Studio Code.
 - Understand that there is a systematized process in the extraction of data, through the use of function libraries such as:
