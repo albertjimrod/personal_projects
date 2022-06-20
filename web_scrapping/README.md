@@ -41,6 +41,9 @@ One of the things I had to fine-tune because I didn't know enough was to work wi
  - BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/ allows the extraction of data from documents of type HTML and XML.
  - Selenium (webdriver): https://www.selenium.dev/documentation/webdriver/ Controls a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
 
+
+![eurogrow_cvs.png](eurogrow_cvs.png)
+
 Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
 
 For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, 
