@@ -1,11 +1,11 @@
 
 ![What_is_Web_Scraping](https://technofaq.org/wp-content/uploads/2019/06/What_is_Web_Scraping.png)
 
-# Motivation to carry out the projects:
+# Main motivation :
 
-Obtaining the necessary data automatically for later use and regardless of the datasets that circulate on the Internet, is one of the tools that a data analyst must be in the toolbox (or at least that's what I think).
+Obtaining the necessary data automatically for later use and regardless of the datasets that circulate on the Internet, is one of the tools that a data analyst must have in their own toolbox (or at least that's what I think).
 
-## Chronology: 
+## Proyects chronology: 
 
 - [Hispasonic](https://www.hispasonic.com/anuncios/teclados-sintetizadores)
  
@@ -52,5 +52,4 @@ For example, a common technique when extracting information is to download those
 
 Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
 
-There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages. These are the benefits.
-
+There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages.
