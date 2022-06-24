@@ -19,23 +19,16 @@ The issue I have experienced have been several:
 
 ### Hispasonic:
 
- - This was the first project, and as such I only made use of the function libraries: Requests and BeautifulSoup the most important challenge was to obtain the dates related to the day on which I did the scrapping because if the user had modified the date it appeared referenced as:
-
-2 weeks ago, 
-
-5 days ago, 
-
-5 minutes ago...
+ - This was the first project, and as such I only made use of the function libraries: Requests and BeautifulSoup the most important challenge was to obtain the dates related to the day on which I did the scrapping because if the user had modified the date it appeared referenced as 2 weeks ago, 5 days ago, 5 minutes ago...
 
 So it was a challenge to adjust that time scale to the date that corresponded to it.
-
 
 ![sample_hispasonic_output.png](sample_hispasonic_output.png)
 
 
 ### Xuxes:
 
-After having finished the previous project facing this one was not so difficult since it did not require dates however I began to realize that I needed another way to enter the code.
+After having finished the previous project facing this one was not so difficult since it did not require dates, however I began to realize that I needed another way to enter the data.
 
 One of the things I had to fine-tune because I didn't know enough was to work with regular expressions which saved me most of the time.
 
@@ -43,21 +36,21 @@ One of the things I had to fine-tune because I didn't know enough was to work wi
 
 ### Eurogrow:
 
+Seeing that the xuxes website was not too complex and suspecting that something I didn't quite understand in depth, I decided to continue with the world of CBD (as there are many pages with these products) and get data on eurogrow.es. Immediately the following points appeared:
+
 - The need to get out of the comfort of using Jupyter notebook and learn how to use a new IDE. In this case Visual Studio Code.
-- Understand that there is a systematized process in the extraction of data, through the use of function libraries such as:
+- Understanding that there is a systematized process in the extraction of data, through the use of function libraries such as:
  - Requests https://requests.readthedocs.io/en/latest/ the connection with the web to be studied.
  - BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/ allows the extraction of data from documents of type HTML and XML.
  - Selenium (webdriver): https://www.selenium.dev/documentation/webdriver/ Controls a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
-
 
 ![eurogrow_cvs.png](eurogrow_cvs.png)
 
 Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
 
-For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, 
-however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since 
-when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
+For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since  when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
 
 Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
 
-in this process one thing with which I have been realizing in each of the projects has been the need to improve the level of programming, it is true that I have seen an improvement from one to another but there is still a way to go.
+There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages. These are the benefits.
+
