@@ -19,7 +19,15 @@ The issue I have experienced have been several:
 
 ### Hispasonic:
 
- - This was the first project, and as such I only made use of the function libraries: requests and BeautifulSoup understanding that I had to continue took me many tests and time (a lot) but they were necessary to finish it,the most important challenge was to obtain the dates related to the day on which I did the scrapping.
+ - This was the first project, and as such I only made use of the function libraries: Requests and BeautifulSoup the most important challenge was to obtain the dates related to the day on which I did the scrapping because if the user had modified the date it appeared referenced as:
+
+2 weeks ago, 
+
+5 days ago, 
+
+5 minutes ago...
+
+So it was a challenge to adjust that time scale to the date that corresponded to it.
 
 
 ![sample_hispasonic_output.png](sample_hispasonic_output.png)
