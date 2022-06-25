@@ -25,7 +25,7 @@ distancia <- dist(xcor, method = "euclidean")
 valores <- cmdscale(distancia, eig = T)
 
 old.par <- par(mfrow=c(1, 2))
-#plot(modelo, type = "p", xlab = "Coord 1", ylab = "Coord 2")
+
 plot(xcor, type = "p", xlab = "Coord 1", ylab = "Coord 2")
 text(xcor[,1],xcor[,2], labels = rownames(xcor), pos = 2, cex = 0.8 )
 matplot(xcor, lty = 1)
@@ -57,7 +57,9 @@ plot(graf, vertex.size = .1)
 
 library(ggplot2)
 library(ggfortify)
+
 alles_dir <- "/media/ion/WD-500/back-up/05_Vídeos/Vídeos/04_Portfolio/01_Gameprefabs/8 bit construction kit/FX/alles"
+
 wav_names <- list.files(alles_dir, pattern = "\\.wav$")
 sound_design <- selection_table(whole.recs = TRUE, path = alles_dir, extended = TRUE)
 
@@ -67,4 +69,5 @@ xcor <- xcorr(sound_design, bp = c(0, 20), wl = 512, ovlp = 99, path = alles_dir
 
 distancia <- dist(xcor, method = "euclidean")
 valores <- cmdscale(distancia, eig = T)
+
 autoplot(cmdscale(distancia, eig = T), label = TRUE, label.size = 3, frame = TRUE)
