@@ -1,9 +1,11 @@
 ---
-title: 'FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH DIMENSIONALITY REDUCTION AND THE MULTIDIMENSIONAL SCALING'
+title: FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH DIMENSIONALITY REDUCTION 
+AND THE MULTIDIMENSIONAL SCALING
 author: "Alberto Jimenez"
-output: pdf_document
-
 date: "oct/05/2020"
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -69,10 +71,10 @@ MACHINE LEARNING APPLIED TO SOUND DESIGN
 [INTRODUCTION........................................................4](#introduction)
 \vspace{12pt}
 
-[ESTATE OF ART.....................................................5](#state-of-art)
+[ESTATE OF ART.....................................................5](#state of art)
 \vspace{12pt}
 
-[OBJECTIVES.............................................................6](#objeCtives)
+[OBJECTIVES.............................................................6](#objectives)
 \vspace{12pt}
 
 [PROPOSED SOLUTION...............................................7](#proposed-solution)
@@ -226,7 +228,7 @@ While it is true that the solution is not innovative, it does not claim to be ei
 
 
 \newpage
-## ESTATE OF ART
+## ESTATE-OF-ART
 
 \vspace{30pt}
 
@@ -315,7 +317,7 @@ The strategy to achieve this will be through the following points:
 
 
 \newpage
-## PROPOSED SOLUTION
+## PROPOSED-SOLUTION
 
 \vspace{15pt}
 
@@ -389,7 +391,7 @@ With this set, it is intended to visualize the operation of our model with speci
 
 \newpage
 
-## Codigo
+## CODE
 
 ``` {r 01 Instalación de librerias, echo=TRUE, eval=TRUE, warning=FALSE, message = FALSE}
 
@@ -539,7 +541,7 @@ plot(graf, vertex.size = .1)
 
 \newpage
 
-## 1 Muestras y análisis
+## 1 Samples-and-analysis
 
 Visualizamos las muestras cargadas en el espacio de trabajo
 
@@ -552,7 +554,7 @@ todas_las_muestras
 
 \newpage
 
-## 1.1 Espectrogramas
+## 1.1 Espectrograms
 
 Representación en tres dimensiones, temporal, frecuencial y amplitud de la distribución de energía de una señal.
 
@@ -563,27 +565,10 @@ El espectrograma es el resultado de calcular la distribución de las amplitudes 
 
 \vspace{15pt}
 
-![image](/home/ion/Formacion/git_repo_klone/personal_projects/Master_thesis/TFM_iebs/ScriptX_pitch-11_d.png)
-
-\vspace{15pt}
-
-![image](/home/ion/Formacion/git_repo_klone/personal_projects/Master_thesis/TFM_iebs/ScriptX_pitch-11_dd.png)
-
-\vspace{15pt}
-
-![image](/home/ion/Formacion/git_repo_klone/personal_projects/Master_thesis/TFM_iebs/ScriptX_pitch-22.png)
-
-\vspace{15pt}
-
-![image](/home/ion/Formacion/git_repo_klone/personal_projects/Master_thesis/TFM_iebs/ScriptX_pitch-22_d.png)
-
-\vspace{15pt}
-
-![image](/home/ion/Formacion/git_repo_klone/personal_projects/Master_thesis/TFM_iebs/ScriptX_pitch-22_dd.png)
 
 \newpage
 
-##  1.2 Parametros acusticos de las muestras
+##  1.2 Acoustic-parameters-of-the-samples
 
 ```{r 03b Parametros acusticos, echo=TRUE, eval=TRUE, warning=FALSE}
 head(sample_acoust_param,6)
@@ -694,7 +679,7 @@ head(sample_acoust_param,6)
 
 \vspace{6pt}
 
-## 2 Definir el modelo:
+## 2 Define-the-model:
 
 En el procesamiento de señales, la correlación cruzada (o a veces denominada "covarianza cruzada") es una medida de la similitud entre dos señales, frecuentemente usada para encontrar características relevantes en una señal desconocida por medio de la comparación con otra que sí se conoce. Es una función del tiempo relativa a las señales, a veces también se la llama producto escalar desplazado, y tiene aplicaciones en el reconocimiento de patrones y en criptoanálisis de las muestras sonoras por medio de la correlación cruzada tiempo-frecuencia.
 
