@@ -13,6 +13,7 @@ A tool that analyzes the samples (only from the frequency perspective) and deter
 
 The solution proposed to achieve this end is the application to multidimensional scaling. While it is true that the solution is not innovative, it does not claim to be either. Only the imple- mentation of the knowledge acquired in ML in the most original way possible avoiding the dependence of external datasets through a field such as audio in which I feel comfortable and being the most honest with what was learned in the course.
 
+![freq_clas.png](../Master_thesis/_resources/23821a484c2843a78a8da19aa5ed6be8.png)
 
 Exercise of approximation to one of the techniques of Machine Learning, through a set of samples audio. The objective is to apply a method of organization widely used in the field of learning supervised and related to the reduction of dimensionality, this method of classification is carried out to through multidimensional scaling.
 
@@ -22,7 +23,7 @@ objects, given only a table of the distances between them. The map may consist o
 dimensions. The program calculates either the metric or the non-metric solution. The table of distances is known as
 the proximity matrix. It arises either directly from experiments or indirectly as a correlation matrix.
 
-![freq_clas.png](../Master_thesis/_resources/23821a484c2843a78a8da19aa5ed6be8.png)
+
 
 
 
